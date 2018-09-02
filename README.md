@@ -2,13 +2,19 @@
 
 ## MyApplication
 
-### App Description
-`TODO://` Add app description
+## App Description
+This app does all the requirements for the prework.
+   ##### Change Text: 
+         This button will change the text in the textView
+   ##### Change Text Color:
+         This button will change the color of the text appearing on the textView.
+   ##### Change background Color:
+         This button will change the background color of the application.
+   ##### Click on background:
+         If you click on the background without clicking on any buttons, the initial state of the app will be restored.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="" width=200><br>
+<img src="EYIpzIW%20-%20Imgur.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
