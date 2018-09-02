@@ -5,13 +5,15 @@
 ## App Description
 This app does all the requirements for the prework.
    ##### Change Text: 
-         This button will change the text in the textView
+         This button will change the text in the textView. If you have some text in the editView, it will 
+         insert that text. If there is not text in the editView, then you will see the default text.
    ##### Change Text Color:
          This button will change the color of the text appearing on the textView.
    ##### Change background Color:
          This button will change the background color of the application.
    ##### Click on background:
-         If you click on the background without clicking on any buttons, the initial state of the app will be restored.
+         If you click on the background without clicking on any buttons, the initial state of 
+         the app will be restored.
 
 ### App Walk-though
 <img src="EYIpzIW%20-%20Imgur.gif" width=200><br>
